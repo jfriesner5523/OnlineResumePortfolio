@@ -18,8 +18,8 @@
 
 
 //for github pages
-var onlineResumePage = "https://jfriesner5523.github.io/OnlineResumePortfolio/HTML/OnlineResumePage.html"
-var onlinePortfolioPage = "https://jfriesner5523.github.io/OnlineResumePortfolio/HTML/OnlinePortfolioPage.html"
+var onlineResumePage = "/OnlineResumePortfolio/HTML/OnlineResumePage.html"
+var onlinePortfolioPage = "/OnlineResumePortfolio/HTML/OnlinePortfolioPage.html"
 
 // var onlinePortfolioPage = "https://jfriesner5523.github.io/OnlineResumePortfolio/HTML/OnlinePortfolioPage.html"
 
