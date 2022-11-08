@@ -3,7 +3,8 @@
 
 
 // var indx = "../index.html"
-var indx = "index.html"
+// var indx = "index.html"
+var indx = "OnlineResumePortfolio/#"  
 var onlinePortfolioPage = "HTML/OnlinePortfolioPage.html"
 
 // var onlinePortfolioPage = "../HTML/OnlinePortfolioPage.html"
