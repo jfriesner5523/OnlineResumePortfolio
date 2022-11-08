@@ -5,14 +5,20 @@
 // var indx = "../index.html"
 // var indx = "index.html"
 
-var indx = "/OnlineResumePortfolio/index.html"  
+
+// var indx = "/OnlineResumePortfolio/index.html"  
 
 // var onlinePortfolioPage = "HTML/OnlinePortfolioPage.html"
 
-var onlinePortfolioPage = "https://jfriesner5523.github.io/OnlineResumePortfolio/HTML/OnlinePortfolioPage.html"
 
-// var onlinePortfolioPage = "../HTML/OnlinePortfolioPage.html"
 
+//for local pages
+var onlineResumePage = "./OnlineResumePage.html"
+var onlinePortfolioPage = "./OnlinePortfolioPage.html"
+
+
+//for github pages
+// var onlinePortfolioPage = "https://jfriesner5523.github.io/OnlineResumePortfolio/HTML/OnlinePortfolioPage.html"
 
 // JSON Element for the nav.
 var TopNav = `<nav class="navbar navbar-expand-lg bg-dark">
@@ -24,7 +30,7 @@ var TopNav = `<nav class="navbar navbar-expand-lg bg-dark">
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       <li class="nav-item">
-        <a class="nav-link" href=${indx} style="color:lightcoral">Online Resume</a>
+        <a class="nav-link" href=${onlineResumePage} style="color:lightcoral">Online Resume</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href=${onlinePortfolioPage} style="color:lightcoral">Portfolio</a>
