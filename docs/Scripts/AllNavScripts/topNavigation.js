@@ -9,7 +9,7 @@ var indx = "/OnlineResumePortfolio/index.html"
 
 // var onlinePortfolioPage = "HTML/OnlinePortfolioPage.html"
 
-var onlinePortfolioPage = "/OnlineResumePortfolio/HTML/OnlinePortfolioPage.html"
+var onlinePortfolioPage = "https://jfriesner5523.github.io/OnlineResumePortfolio/HTML/OnlinePortfolioPage.html"
 
 // var onlinePortfolioPage = "../HTML/OnlinePortfolioPage.html"
 
