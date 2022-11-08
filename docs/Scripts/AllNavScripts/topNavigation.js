@@ -13,11 +13,14 @@
 
 
 //for local pages
-var onlineResumePage = "./OnlineResumePage.html"
-var onlinePortfolioPage = "./OnlinePortfolioPage.html"
+// var onlineResumePage = "./OnlineResumePage.html"
+// var onlinePortfolioPage = "./OnlinePortfolioPage.html"
 
 
 //for github pages
+var onlineResumePage = "../../HTML/OnlineResumePage.html"
+var onlinePortfolioPage = "../../HTML/OnlinePortfolioPage.html"
+
 // var onlinePortfolioPage = "https://jfriesner5523.github.io/OnlineResumePortfolio/HTML/OnlinePortfolioPage.html"
 
 // JSON Element for the nav.
